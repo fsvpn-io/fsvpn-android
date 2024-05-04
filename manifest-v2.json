@@ -1,0 +1,12 @@
+{
+    "apiGateway": "https://api.appvip.site",
+    "android": {
+        "version": "1.0.4",
+        "version_code": 2
+    },
+    "metadata": {
+        "telegram_channel": "FsVPNChannel",
+        "telegram_support": "FsVPNSupport"
+    },
+    "terminate": false
+}
